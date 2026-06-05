@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Akshaya Kumar Gupta 👋
 
-<!--
-**fordatascienceandai-2407/fordatascienceandai-2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Currently building skills in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+## Certifications
+
+- AlmaBetter Data Analytics Program
+- SQL Fundamentals
+- Advanced SQL Joins
+- Window Functions
+- CTEs & Azure Database
+- Data Visualization Libraries
+- Plotly Dashboards
+- Streamlit Dashboards
+
+## Current Goal
+
+To secure an entry-level Data Analyst role and build real-world analytics projects.
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/akshaya-kumar-gupta-2929b3393
+
+Certificates:
+https://drive.google.com/drive/folders/1jdlCBm9pqKIzvObCmmkVlf4CxsxEKhWi
