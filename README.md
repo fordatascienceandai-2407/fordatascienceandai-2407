@@ -30,8 +30,6 @@ To secure an entry-level Data Analyst role and build real-world analytics projec
 
 ## Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/akshaya-kumar-gupta-2929b3393
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/akshaya-kumar-gupta-2929b3393)
 
-Certificates:
-https://drive.google.com/drive/folders/1jdlCBm9pqKIzvObCmmkVlf4CxsxEKhWi
+Certificates: [View My Certificates](https://drive.google.com/drive/folders/1jdlCBm9pqKIzvObCmmkVlf4CxsxEKhWi)
